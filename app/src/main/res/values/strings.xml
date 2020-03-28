@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">ToastApps</string>
+    <string name="titleName">Pendaftaran</string>
+    <string name="Almt">Alamat</string>
+    <string name="Date">Tanggal</string>
+    <string name="btn">Daftar</string>
+    <string name="hsl">Tampilan Hasil</string>
+    <string name="FirstName">Nama Depan</string>
+    <string name="LastName">Nama Belakang</string>
+    <string name="TmptLahir">Tempat Lahir</string>
+    <string name="TglLahir">Tanggal Lahir</string>
+    <string name="tlp">Telepon</string>
+    <string name="eml">Email</string>
+    <string name="pw1">Password</string>
+    <string name="pw2">Masukkan Password Kembali</string>
+    <string name="tgl">Tanggal Lahir</string>
+    <string name="gender">Jenis Kelamin</string>
+    <string name="L">Laki Laki</string>
+    <string name="P">Perempuan</string>
+    <string name="Agama">Agama</string>
+    <string name="I">Islam</string>
+    <string name="K">Kristen</string>
+    <string name="Ka">Katholik</string>
+    <string name="H">Hindu</string>
+    <string name="B">Buddha</string>
+    <string name="KH">KongHucu</string>
+    <string name="DLL">Aliran Kepercayaan</string>
+    <string name="kmbli">KongHucu</string>
+    <string name="dftr">KongHucu</string>
+</resources>
