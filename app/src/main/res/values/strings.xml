@@ -27,4 +27,21 @@
     <string name="DLL">Aliran Kepercayaan</string>
     <string name="kmbli">KongHucu</string>
     <string name="dftr">KongHucu</string>
+    <string name="lgn">LOGIN USER</string>
+    <string name="un">Username</string>
+    <string name="ps">Password</string>
+    <string name="jdl">Form Pendaftaraan</string>
+    <string name="nm">Nama</string>
+    <string name="al">Alamat</string>
+
+    <string name="no">No HP</string>
+    <string name="si">SIGN IN</string>
+
+    <string name="txtun">Masukkan Username</string>
+    <string name="txtps">Masukkan Password</string>
+    <string name="txtnm">Masukkan Nama</string>
+    <string name="txtal">Masukkan Alamat</string>
+    <string name="txthp">Masukkan Nomor Handphone</string>
+    <string name="txt2">Tampilan Hasil Menu 2</string>
+    <string name="txt3">Tampilan Hasil Menu 3</string>
 </resources>

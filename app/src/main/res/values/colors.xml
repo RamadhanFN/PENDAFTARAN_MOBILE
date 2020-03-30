@@ -7,4 +7,10 @@
     <color name="Title">#3f3f3f</color>
     <color name="colorAccent">#D81B60</color>
     <color name="btn">#f9b597</color>
+    <color name="jdl">#2196F3</color>
+    <color name="un">#FFEB3B</color>
+    <color name="txt">#000000</color>
+    <color name="label">#000000</color>
+    <color name="txtcolor">#ffffff</color>
+    <color name="krem">#ffe4b5</color>
 </resources>
